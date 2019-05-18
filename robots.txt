@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xiebealei.islajamie.com/sitemap.xml
